@@ -1,0 +1,14 @@
+.DS_Store
+*.ipynb
+
+
+git rm --cached .DS_Store
+
+
+
+
+
+
+
+
+
